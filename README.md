@@ -34,6 +34,11 @@ My journey has taken me from hands-on digital execution to leading strategy, tea
 | **Partners & ecosystem** | Agency and vendor governance, platform partnerships and cross-functional alignment |
 | **Innovation** | Applying AI and new creative technology to work smarter and move faster |
 
+### 🤖 Featured work
+| Project | What it is |
+|---|---|
+| 🧭 [**The AI Marketing Playbook**](https://github.com/gokulprasad-GP/ai-marketing-playbook) | A leader-level guide to building an AI-native marketing organization: maturity model, prompt library and governance guardrails |
+
 ### 🌐 Industry experience
 🚗 Automotive · 🎰 Gaming & Entertainment · 📣 Media Agency · 🛍️ Retail · 🏗️ B2B · 🎓 Education
 <br/>Across **North America and the Middle East**
